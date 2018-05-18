@@ -1,0 +1,11 @@
+{
+    "name": "vendor/mike",
+    "description": "aplikasi booking service motor",
+    "authors": [
+        {
+            "name": "reza",
+            "email": "ahmad.reza.9484@gmail.com"
+        }
+    ],
+    "require": {}
+}
